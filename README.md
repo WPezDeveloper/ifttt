@@ -10,7 +10,10 @@ If This Then That - https://IFTTT.com
  
 ##### Automate WordPress with IFTTT (Nov 2014)
  - http://www.sitepoint.com/automate-wordpress-with-ifttt/
- 
+
+##### 24 Awesome IFTTT Recipes for Automating Your WordPress Tasks (Sept 2014)
+ - http://torquemag.io/2014/09/24-awesome-ifttt-recipes-automating-wordpress-tasks/
+
 ##### Top 5 Recipes to Use IFTTT with WordPress (Sept 2014)
  - https://whatswp.com/use-ifttt-with-wordpress/
  
