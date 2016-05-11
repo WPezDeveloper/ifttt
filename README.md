@@ -8,7 +8,7 @@ If This Then That - https://IFTTT.com
 ##### Schedule And Automate WordPress Tasks With IFTTT (Updated May 2016)
  - http://www.wpkube.com/schedule-automate-wordpress-tasks-ifttt/
  
- ##### Automate WordPress with IFTTT (Nov 2014)
+##### Automate WordPress with IFTTT (Nov 2014)
  - http://www.sitepoint.com/automate-wordpress-with-ifttt/
  
 ##### Top 5 Recipes to Use IFTTT with WordPress (Sept 2014)
